@@ -64,7 +64,7 @@ export default function Hero({ companyName }) {
 
         <div className="flex flex-wrap gap-4">
           <a
-            href="#projets"
+            href="#projects"
             className="px-10 py-4 rounded-full font-bold transition-all hover:scale-105 shadow-lg"
             style={{ backgroundColor: colors.ocre }}
           >

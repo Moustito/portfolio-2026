@@ -87,9 +87,6 @@ const Portfolio = () => {
                 Projets
               </h2>
             </motion.div>
-            <p className="text-white/40 font-mono text-xs uppercase tracking-widest mb-2">
-              Selection 2023 — 2024
-            </p>
           </div>
 
           {/* Grille Bento */}
